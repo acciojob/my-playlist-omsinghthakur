@@ -5,28 +5,23 @@ body {
 			background-color:white;
 			border:5px black;
 			height:100px; 
+			 border:1px solid black; 
 		}
-		.player_two {
-			margin-top: 20px;
-			text-align: center;
-		}
-		
-		.player_two video {
-			width: 600px;
-			height: 400px;
-			border-radius: 5px;
-			box-shadow: 0px 0px 5px #aaaaaa;
-		}
-		.player_mp3 {
-			margin-top: 20px;
-			text-align: center;
-		}
-			.player_mp3 audio {
-			width: 600px;
-			height: 50px;
-			border-radius: 5px;
-			box-shadow: 0px 0px 5px #aaaaaa;
-		} 
-     .my{
-		 text-align:center; 
-	 }
+	.my{
+		text-align:center; 
+	}
+   .now{
+	   text-align:center;
+	   margin-top:5px;
+   }
+  .player_two{
+	  text-align:center; 
+	  background-color:white;
+	  width:350px; 
+	  margin:80px; 
+	  top:0px;
+	  border:1px solid black; 
+	  padding-top:15px; 
+	  padding-left:0px;
+	  margin-top:5px;  
+  }
